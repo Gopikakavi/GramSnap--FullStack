@@ -424,7 +424,7 @@ Directory structure:
 
 ## 👤 Author
 
-**[Gopi C K](https://github.com/gopi-c-k)**
+**[Gopi C K](https://github.com/gopi-c-k) & [Gopika A](https://github.com/Gopikakavi)**
 Full-Stack Developer
 
 
